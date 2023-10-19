@@ -47,56 +47,28 @@ Git and GitHub for version control and collaboration
 
 # Projects;
 
-* Project 1. (Olx Clone)
+* Project 1. [Olx Clone](https://github.com/Muhammed-shamal/Olx-clone.git)
+  
+ **Live Demo:**[Olx Clone](https://adorable-cheesecake-4d449e.netlify.app/)
 
-  Description:
-  The **OLX Clone** project is a web application designed to replicate the core functionality of the popular online marketplace OLX. Developed using React for the front-end and Firebase as the backend 
-  database, this project offers users a platform to buy and sell a wide range of products effortlessly.
-  And one Thing to view the Items,  **need to login first or you are at first time then please signUp and you view the all items and you can add products.**
+ * Project 2.  [Netflix Clone](https://github.com/Muhammed-shamal/netflix-clone.git)
+   
+ **Live Demo:**[Netflix Clone](https://unrivaled-beignet-af9394.netlify.app)
 
-### Key Features:
+* Project 3. [E-commerce Store](https://github.com/Muhammed-shamal/demo-cart.git)
 
- **User Authentication:** Implement user registration and authentication, allowing users to create accounts, log in, and manage their profiles.
- **Product Listings:** Enable users to create detailed product listings, complete with titles, descriptions, images, and price details.
- **Real-Time Updates:** Leverage Firebase's real-time database capabilities to provide users with instant updates on product listings and user interactions.
- **Responsive Design:** Ensure a seamless user experience across different devices and screen sizes.
+**Live Demo:**[Olx Clone](https://e-commerce-demo-cart.firebaseapp.com/)
 
- ### Technologies Used:
+* Project 4. [Portfolio Website for my Friend ](https://github.com/Muhammed-shamal/Nabeel_portfolio.git)
 
-* Front-End: React.js, React Router for navigation
-* Back-End: Firebase for database and authentication
-* Styling: CSS and/or a CSS framework (e.g., Bootstrap)
-Deployment: Host the project on a cloud platform  Netlify
+  **Live Demo:** [Portfoli Website for my friend ](https://super-macaron-459a9d.netlify.app/)
 
- ** Live Demo:**[Olx Clone](https://adorable-cheesecake-4d449e.netlify.app/)
 
- * Project 2. (Netflix Clone)
+  ## Contact
 
-  Description:
-  The Netflix Clone project is a dynamic and engaging web application that replicates the user interface and functionality of the popular streaming service, Netflix. This project was developed using React, a powerful JavaScript library for building user interfaces, and Firebase for backend functionality. The project stands out with its extensive movie and TV show database powered by TMDb (The Movie Database).
-  And one Thing to view the Items,  **need to login first or you are at first time then please signUp and you view the all items and you can add products.**
-
-### Key Features:
-
- **User Authentication:** Users can sign in or create accounts, ensuring a personalized viewing experience.
- **Product Listings:** Enable users to create detailed product listings, complete with titles, descriptions, images, and price details.
- **Real-Time Updates:** Updates on new releases and trending content are automatically reflected.
- **Dynamic Content:** The project fetches a wide array of movies and TV shows from TMDb, ensuring an up-to-date catalog.
-   Streamlined User Interface: The user interface closely resembles the Netflix experience, providing ease of use.
- **Responsive Design:** The project is designed to be accessible and visually appealing on various devices and screen sizes.
-
- ### Technologies Used:
-
-* React.js
-* Firebase (Authentication, Firestore)
-* TMDb API (The Movie Database)
-* HTML/CSS
-* JavaScript
-
-Deployment: Host the project on a cloud platform  Netlify
-
- ** Live Demo:**[Netflix Clone](https://unrivaled-beignet-af9394.netlify.app)
-
+  **Email**: [peevee](muhammedshamalpv@gmail.com)
+  **WhatsApp**: +91 8304912033
+  **Call**: +91 8304912033
 
 
 
